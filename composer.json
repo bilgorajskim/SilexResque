@@ -1,9 +1,9 @@
 {
     "name": "grom/silex-resque",
     "require": {
-        "silex/silex": "~1.0",
-		"chrisboulton/php-resque": "1.2.x",
-		"chrisboulton/php-resque-scheduler": "^1.1",
+        "silex/silex": ">=1",
+        "chrisboulton/php-resque": "1.2.x",
+        "chrisboulton/php-resque-scheduler": "^1.1",
         "symfony/console": "~2.1"
     },
     "authors": [
